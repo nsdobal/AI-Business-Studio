@@ -1,0 +1,1 @@
+Never expose secrets. Encrypt API keys. Validate all input.
