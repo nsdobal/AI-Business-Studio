@@ -1,0 +1,100 @@
+First Prompt : 
+
+Read every documentation file in this workspace before writing any code.
+
+Priority order:
+
+1. AGENTS.md
+2. README.md
+3. 01_PRODUCT_REQUIREMENTS.md
+4. 02_ARCHITECTURE.md
+5. 03_DATABASE.md
+6. 04_API_SPEC.md
+7. 05_UI_GUIDELINES.md
+8. 06_SECURITY.md
+9. 07_DEPLOYMENT.md
+10. 08_CODING_GUIDELINES.md
+11. 09_TEST_STRATEGY.md
+12. 10_ROADMAP.md
+
+Also read every rule inside .cursor/rules.
+
+Treat these documents as the source of truth.
+
+Do not ignore any architectural, UI, security, or coding requirements.
+
+I am using the Cursor Trial plan, so maximize the amount of useful work completed in this generation.
+
+Implement Phase 1 from AGENTS.md.
+
+Generate a complete project foundation that compiles successfully.
+
+Include:
+
+- Folder structure
+- Frontend foundation
+- Backend foundation
+- Authentication foundation
+- Database foundation
+- Theme system
+- Landing page
+- Dashboard layout
+- Docker foundation
+- Environment configuration
+- Dependency management
+
+Do not implement AI provider integrations yet.
+
+At the end, verify that the generated project follows the documentation and that the frontend and backend are ready for Phase 2.
+
+############################
+
+2nd Prompt : 
+
+Continue with Phase 2.
+
+Implement:
+
+- AI Provider management
+- Encrypted API key storage
+- OpenAI integration
+- Business Idea Generator
+- Streaming responses
+- Markdown rendering
+- Conversation history
+- Token tracking
+
+Maintain the existing architecture.
+
+Do not redesign existing modules.
+
+Extend the current implementation.
+
+At the end, verify the application builds successfully.
+
+
+############################
+
+Final Prompt : 
+
+
+Proceed with Phase 3.
+
+Complete:
+
+- Admin module
+- Testing
+- Documentation
+- Docker refinement
+- Nginx configuration
+- Azure VM deployment assets
+- Azure SQL deployment guidance
+- Security hardening
+- Performance optimization
+- Accessibility improvements
+- UI polishing
+- Final refactoring
+
+Remove duplicate code.
+
+Ensure the application is production-ready and follows the architecture and coding standards defined in the workspace.
